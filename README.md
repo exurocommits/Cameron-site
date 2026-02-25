@@ -1,24 +1,51 @@
-# Alex Rivera Portfolio Website
+# Cameron Portfolio Website
 
-A modern, responsive portfolio website for Alex Rivera - VR Designer & Motion Graphics Artist.
+A motion-forward, animated portfolio website for Cameron - VR Designer & Motion Graphics Artist.
 
 ## Features
 
-- ✨ Modern dark theme with gradient accents
+- ✨ Dark sci-fi aesthetic with purple/neon gradients
 - 📱 Fully responsive design (mobile, tablet, desktop)
-- 🎨 Smooth scroll animations
+- 🎬 Extensive motion graphics and animations
+- ⚡ Glitch text effects (sci-fi style)
+- 🌌 Animated particle background (Canvas)
+- 💫 Floating gradient shapes
+- 🔮 Pulsing glow effects on buttons
+- 🎭 Scroll-triggered reveal animations
 - 🥽 Services showcase (VR, Motion Graphics, 3D, WebAR)
-- 🎬 Portfolio grid with hover effects
-- 👤 About section with statistics
+- 🖼️ Portfolio grid with hover effects
+- 👤 About section with animated elements
 - 📧 Contact section with social links
 - 🚀 Single-page fast loading
+- 🎨 Orbitron + Rajdhani fonts (futuristic)
 
 ## Technologies
 
 - HTML5
 - CSS3 (Custom animations, Flexbox, Grid)
-- Vanilla JavaScript (Intersection Observer API)
-- Google Fonts (Space Grotesk, Inter)
+- Vanilla JavaScript (Canvas API, Intersection Observer)
+- Google Fonts (Orbitron, Rajdhani)
+
+## Design Philosophy
+
+Based on Cameron's vibe (Death Stranding shirt, purple lighting, gaming aesthetic):
+
+- **Dark sci-fi aesthetic** - Deep purple/black color scheme
+- **Futuristic fonts** - Orbitron (headers) + Rajdhani (body)
+- **Heavy motion emphasis** - Particles, glitch effects, floating shapes
+- **Gaming/tech feel** - Sci-fi terminology, neon accents
+- **Immersive atmosphere** - Layered animations, glow effects
+
+## Motion Elements
+
+1. **Particle Background** - 100 floating particles with connection lines (Canvas)
+2. **Glitch Effect** - Text distortion on hero and contact headers
+3. **Floating Shapes** - 3 gradient orbs floating around the page
+4. **Pulse Animations** - Buttons and logo glow and pulse
+5. **Hover Effects** - Cards scale up with glow shadows
+6. **Scroll Reveals** - Elements animate in on scroll
+7. **Icon Rotation** - Service icons continuously rotate
+8. **Button Shine** - Animated border shine effect
 
 ## Project Structure
 
